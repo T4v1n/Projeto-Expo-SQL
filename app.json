@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "courageous-yellow-pizza",
-    "slug": "snack-e71918a2-e7fe-4a0c-a8e7-3d2ce07324ef",
+    "name": "Receitas_RN",
+    "slug": "Receitas_RN",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -19,7 +19,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "edgeToEdgeEnabled": true
     },
     "web": {
       "favicon": "./assets/favicon.png"
